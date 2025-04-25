@@ -1,0 +1,2 @@
+Battery ID,Test ID,Capacity,Electrolyte Resistance (Re),Charge Transfer Resistance (Rct),Ambient Temperature,Predicted RUL,Predicted SOP,Health Status,Recommendation,Timestamp
+1,1,0.9,0.05,0.15,24,941.7512638156774,0.5393259022777714,Critical,Immediate replacement recommended,2025-04-25 19:49:20
